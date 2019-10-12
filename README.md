@@ -6,9 +6,9 @@ In this repo I achieved some machine learning algorithms: KNN, PCA, Logistic Reg
 - In Assgnment3 I achieved three cross validation methods and two types of SVM.
    Three cross validation methods : leave-one-out cross-validation(Loo), k-fold cross-validation(CV), . 
    Two types of SVM: hard-margin SVM and soft margine SVM
- -- Language of Assignments: Matlab
+ / Language of Assignments: Matlab
 
 - Data challenge -- use CNN to classify mnist fashion dataset
 - For the rest you can tell from file name.
--- Language of the others: Python
+/ Language of the others: Python
 
