@@ -1,4 +1,4 @@
-# Classification
+# Machine-Learning-algorithms
 In this repo I achieved some machine learning algorithms: KNN, PCA, Logistic Regression, LDA, QDA, SVM, Backpropagation algorithms and so on (no using any library such as sklearn). Languages I used are Matlab and Python.
 
 - In Assignment1 I achieved PCA, linear and a quadratic decision boundary(LDA, QDA) models, which applied in number image classification.
